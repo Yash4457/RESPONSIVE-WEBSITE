@@ -2,7 +2,7 @@
     .navbar{
         height: 447px;
         flex-direction: column;
-        transition: all 0.7s ease-in-out;
+        transition: all 0.7s ease-out;
     }
     .nav-list{
         flex-direction: column;
